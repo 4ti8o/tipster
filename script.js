@@ -184,8 +184,20 @@ async function loadHistory() {
     }
 }
 
+// Mobile menu toggle
+function toggleMenu() {
+    const nav = document.querySelector('nav');
+    nav.classList.toggle('active');
+}
+
 // Initialize based on page
 document.addEventListener('DOMContentLoaded', function() {
+    // Add hamburger menu event listener
+    const hamburger = document.querySelector('.hamburger');
+    if (hamburger) {
+        hamburger.addEventListener('click', toggleMenu);
+    }
+
     if (document.getElementById('tips-container')) {
         displayDailyTips();
     }
