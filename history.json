@@ -1,0 +1,308 @@
+[
+    {
+        "match": "Arsenal vs Chelsea",
+        "prediction": "Over 2.5",
+        "result": "Win",
+        "date": "2023-10-01"
+    },
+    {
+        "match": "Manchester City vs Liverpool",
+        "prediction": "BTTS Yes",
+        "result": "Win",
+        "date": "2023-10-02"
+    },
+    {
+        "match": "Barcelona vs Real Madrid",
+        "prediction": "Over 1.5",
+        "result": "Loss",
+        "date": "2023-10-03"
+    },
+    {
+        "match": "Bayern Munich vs Dortmund",
+        "prediction": "Under 2.5",
+        "result": "Win",
+        "date": "2023-10-04"
+    },
+    {
+        "match": "Juventus vs Inter Milan",
+        "prediction": "BTTS No",
+        "result": "Loss",
+        "date": "2023-10-05"
+    },
+    {
+        "match": "PSG vs Marseille",
+        "prediction": "Over 3.5",
+        "result": "Win",
+        "date": "2023-10-06"
+    },
+    {
+        "match": "Atletico Madrid vs Sevilla",
+        "prediction": "Over 1.5",
+        "result": "Win",
+        "date": "2023-10-07"
+    },
+    {
+        "match": "Tottenham vs West Ham",
+        "prediction": "BTTS Yes",
+        "result": "Loss",
+        "date": "2023-10-08"
+    },
+    {
+        "match": "Napoli vs Roma",
+        "prediction": "Over 2.5",
+        "result": "Win",
+        "date": "2023-10-09"
+    },
+    {
+        "match": "Leicester vs Southampton",
+        "prediction": "Under 1.5",
+        "result": "Win",
+        "date": "2023-10-10"
+    },
+    {
+        "match": "Villarreal vs Valencia",
+        "prediction": "BTTS Yes",
+        "result": "Loss",
+        "date": "2023-10-11"
+    },
+    {
+        "match": "Wolves vs Everton",
+        "prediction": "Over 1.5",
+        "result": "Win",
+        "date": "2023-10-12"
+    },
+    {
+        "match": "Fiorentina vs Lazio",
+        "prediction": "Over 2.5",
+        "result": "Win",
+        "date": "2023-10-13"
+    },
+    {
+        "match": "Newcastle vs Crystal Palace",
+        "prediction": "BTTS No",
+        "result": "Loss",
+        "date": "2023-10-14"
+    },
+    {
+        "match": "Athletic Bilbao vs Real Sociedad",
+        "prediction": "Under 2.5",
+        "result": "Win",
+        "date": "2023-10-15"
+    },
+    {
+        "match": "Brighton vs Aston Villa",
+        "prediction": "Over 1.5",
+        "result": "Win",
+        "date": "2023-10-16"
+    },
+    {
+        "match": "Monaco vs Lyon",
+        "prediction": "BTTS Yes",
+        "result": "Win",
+        "date": "2023-10-17"
+    },
+    {
+        "match": "Bologna vs Udinese",
+        "prediction": "Over 2.5",
+        "result": "Loss",
+        "date": "2023-10-18"
+    },
+    {
+        "match": "Brentford vs Fulham",
+        "prediction": "Under 1.5",
+        "result": "Win",
+        "date": "2023-10-19"
+    },
+    {
+        "match": "Celta Vigo vs Getafe",
+        "prediction": "BTTS Yes",
+        "result": "Win",
+        "date": "2023-10-20"
+    },
+    {
+        "match": "Sampdoria vs Genoa",
+        "prediction": "Over 1.5",
+        "result": "Loss",
+        "date": "2023-10-21"
+    },
+    {
+        "match": "Burnley vs Sheffield United",
+        "prediction": "Over 2.5",
+        "result": "Win",
+        "date": "2023-10-22"
+    },
+    {
+        "match": "Nice vs Strasbourg",
+        "prediction": "BTTS No",
+        "result": "Win",
+        "date": "2023-10-23"
+    },
+    {
+        "match": "Osasuna vs Mallorca",
+        "prediction": "Under 2.5",
+        "result": "Loss",
+        "date": "2023-10-24"
+    },
+    {
+        "match": "Watford vs Norwich",
+        "prediction": "Over 1.5",
+        "result": "Win",
+        "date": "2023-10-25"
+    },
+    {
+        "match": "Reims vs Nantes",
+        "prediction": "BTTS Yes",
+        "result": "Win",
+        "date": "2023-10-26"
+    },
+    {
+        "match": "Spezia vs Cagliari",
+        "prediction": "Over 2.5",
+        "result": "Win",
+        "date": "2023-10-27"
+    },
+    {
+        "match": "Reading vs Swansea",
+        "prediction": "Under 1.5",
+        "result": "Loss",
+        "date": "2023-10-28"
+    },
+    {
+        "match": "Troyes vs Clermont",
+        "prediction": "BTTS Yes",
+        "result": "Win",
+        "date": "2023-10-29"
+    },
+    {
+        "match": "Venezia vs Salernitana",
+        "prediction": "Over 1.5",
+        "result": "Win",
+        "date": "2023-10-30"
+    },
+    {
+        "match": "Bournemouth vs Leeds",
+        "prediction": "Over 2.5",
+        "result": "Loss",
+        "date": "2023-10-31"
+    },
+    {
+        "match": "Lens vs Brest",
+        "prediction": "BTTS No",
+        "result": "Win",
+        "date": "2023-11-01"
+    },
+    {
+        "match": "Empoli vs Sassuolo",
+        "prediction": "Under 2.5",
+        "result": "Win",
+        "date": "2023-11-02"
+    },
+    {
+        "match": "Nottingham Forest vs West Brom",
+        "prediction": "Over 1.5",
+        "result": "Win",
+        "date": "2023-11-03"
+    },
+    {
+        "match": "Montpellier vs Lille",
+        "prediction": "BTTS Yes",
+        "result": "Loss",
+        "date": "2023-11-04"
+    },
+    {
+        "match": "Hellas Verona vs Torino",
+        "prediction": "Over 2.5",
+        "result": "Win",
+        "date": "2023-11-05"
+    },
+    {
+        "match": "Blackburn vs Millwall",
+        "prediction": "Under 1.5",
+        "result": "Win",
+        "date": "2023-11-06"
+    },
+    {
+        "match": "Ajaccio vs Toulouse",
+        "prediction": "BTTS Yes",
+        "result": "Win",
+        "date": "2023-11-07"
+    },
+    {
+        "match": "Cremonese vs Monza",
+        "prediction": "Over 1.5",
+        "result": "Loss",
+        "date": "2023-11-08"
+    },
+    {
+        "match": "QPR vs Coventry",
+        "prediction": "Over 2.5",
+        "result": "Win",
+        "date": "2023-11-09"
+    },
+    {
+        "match": "Angers vs Auxerre",
+        "prediction": "BTTS No",
+        "result": "Win",
+        "date": "2023-11-10"
+    },
+    {
+        "match": "Brescia vs Ascoli",
+        "prediction": "Under 2.5",
+        "result": "Loss",
+        "date": "2023-11-11"
+    },
+    {
+        "match": "Derby vs Bristol City",
+        "prediction": "Over 1.5",
+        "result": "Win",
+        "date": "2023-11-12"
+    },
+    {
+        "match": "Lorient vs Metz",
+        "prediction": "BTTS Yes",
+        "result": "Win",
+        "date": "2023-11-13"
+    },
+    {
+        "match": "Pisa vs Como",
+        "prediction": "Over 2.5",
+        "result": "Win",
+        "date": "2023-11-14"
+    },
+    {
+        "match": "Rotherham vs Sunderland",
+        "prediction": "Under 1.5",
+        "result": "Win",
+        "date": "2023-11-15"
+    },
+    {
+        "match": "Saint-Etienne vs Rodez",
+        "prediction": "BTTS Yes",
+        "result": "Loss",
+        "date": "2023-11-16"
+    },
+    {
+        "match": "Sudtirol vs Reggiana",
+        "prediction": "Over 1.5",
+        "result": "Win",
+        "date": "2023-11-17"
+    },
+    {
+        "match": "Swansea vs Cardiff",
+        "prediction": "Over 2.5",
+        "result": "Win",
+        "date": "2023-11-18"
+    },
+    {
+        "match": "Valenciennes vs Pau",
+        "prediction": "BTTS No",
+        "result": "Win",
+        "date": "2023-11-19"
+    },
+    {
+        "match": "Villarreal B vs Hercules",
+        "prediction": "Under 2.5",
+        "result": "Loss",
+        "date": "2023-11-20"
+    }
+]
