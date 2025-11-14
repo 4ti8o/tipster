@@ -14,4 +14,4 @@
 - [x] Create script.js (API fetches from football-data.org and tip generation logic)
 - [x] Create history.json (mock data for last 50 outcomes)
 - [x] Create netlify.toml (deployment configuration)
-- [ ] Deploy to Netlify and test functionality
+- [x] Deploy to Netlify and test functionality
