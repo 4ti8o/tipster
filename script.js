@@ -161,10 +161,15 @@ async function displayPredictions(type) {
     predictionsContainer.innerHTML = predictionsHtml;
 }
 
-// Load history from JSON
+// Load history from API (fallback to local JSON for local development)
 async function loadHistory() {
     try {
-        const response = await fetch('history.json');
+        let response;
+        if (window.location.hostname === 'localhost') {
+            response = await fetch('history.json');
+        } else {
+            response = await fetch('/api/history');
+        }
         const history = await response.json();
         const historyContainer = document.getElementById('history-container');
 
